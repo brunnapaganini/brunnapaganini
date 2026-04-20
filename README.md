@@ -2,7 +2,7 @@
 
 * 💻 Desenvolvedora Full Stack em formação apaixonada por tecnologia
 * 🎨 Interesse em Front-End, Design de Interfaces e experiência do usuário
-* 🌱 Atualmente estudando Java, TypeScript, React e MySQL
+* 🌱 Atualmente estudando Java, MySQL, TypeScript e Jest
 * 🎓 Graduação em Tecnologia da Informação — UNINTER
 * 🎓 Técnico em Desenvolvimento de Sistemas — Senac RS
 * 📍 São Leopoldo - RS
